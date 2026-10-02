@@ -1,0 +1,23 @@
+# Python
+Python/
+
+# IDE
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temporary files
+*.pbit.lock
+
+# Excel temporary files
+~$*.xlsx

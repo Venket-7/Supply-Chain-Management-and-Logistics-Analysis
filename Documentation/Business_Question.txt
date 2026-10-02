@@ -1,0 +1,11 @@
+Spend vs target: Which months and product categories are above or below procurement spend targets?
+Price vs contract: Which suppliers or categories have actual unit prices above contracted prices?
+Supplier performance and risk: Which high-spend suppliers have weak delivery, quality, or risk scores?
+Delivery reliability: Which suppliers, carriers, regions, or transport modes have the most late deliveries? How does on-time delivery compare with each carrier’s SLA?
+Freight and transit: Which carriers and transport modes have the highest freight costs, and how do their transit times compare?
+Rejections: Which product categories have the highest rejection rates?
+How concentrated is procurement spend among suppliers, and how much of total spend comes from the top 10 suppliers?
+Which PO lines were ordered outside the supplier’s contract dates, and what recorded value and price variance do they represent?
+Which purchase orders contain a mix of line statuses, and how many lines and how much recorded value are affected?
+Are delays occurring before dispatch or during transit, and which suppliers, carriers, or warehouses show the longest delays?
+Which carriers and transport modes offer the best cost-versus-delivery performance?

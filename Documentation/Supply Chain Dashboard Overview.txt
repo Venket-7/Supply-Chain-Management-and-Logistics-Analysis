@@ -1,0 +1,12 @@
+Page 1: Overview
+- How does procurement spend compare with target, and which categories have the largest variance?
+- What is the PO status mix, and how does supplier risk relate to spend?
+- Where are delivery delays occurring?
+Page 2: Supplier & Procurement
+- Which suppliers have the highest purchase-price variance (PPV)?
+- Which suppliers combine high spend with weak performance or risk scores?
+- How does PPV change over time, and which suppliers need review?
+Page 3: Logistics & Delivery
+- Which carriers meet or miss their on-time delivery (OTD) SLA?
+- Which transport modes have the highest freight cost?
+- Which carriers have the longest transit times, and how does OTD trend by month?
